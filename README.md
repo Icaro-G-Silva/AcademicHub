@@ -1,2 +1,2 @@
-# AcademicHub
-Personal organization app for university
+# Academic Hub
+> Personal organization app for university
