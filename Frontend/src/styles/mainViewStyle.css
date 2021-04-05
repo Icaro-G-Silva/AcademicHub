@@ -1,0 +1,12 @@
+* {
+    user-select: none;
+    -webkit-user-select: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #181a1b;
+    text-align: center;
+    color: white;
+}

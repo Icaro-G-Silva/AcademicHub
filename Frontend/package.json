@@ -1,0 +1,15 @@
+{
+  "name": "academic-hub",
+  "version": "1.0.0",
+  "description": "App that stores some of more important academic content for check out later.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./src/main.js"
+  },
+  "keywords": ["Academy", "Hub", "Storage", "Files"],
+  "author": "Ícaro Gabriel Silva",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^12.0.0"
+  }
+}
